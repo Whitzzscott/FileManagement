@@ -123,7 +123,7 @@ This file management system offers multiple operations for handling files and fo
 ## **🔧 How to Use This Project**
 1. **Install the package**  
    ```sh
-   npm install filemanagement
+   npm install filemanagementsystemfornode
    ```
 2. **Run the script**  
    ```sh
