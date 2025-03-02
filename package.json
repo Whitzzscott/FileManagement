@@ -1,7 +1,7 @@
 {
   "name": "filemanagementsystemfornode",
   "version": "1.0.2",
-  "description": "A file management system for node.js application making managements of files easier, all in one code, you can delete, move, etc, files all in one code, making ability to manage a system eg a application requiring transfering of files in folders easier ",
+  "description": "A file management system for node.js application making managements of files easier, all in one code, you can delete, move, etc, files all in one code, making ability to manage a system e.g. a application requiring transferring of files in folders easiersd ",
   "license": "ISC",
   "author": "",
   "type": "commonjs",
