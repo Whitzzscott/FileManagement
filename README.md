@@ -1,4 +1,9 @@
 ---
+📘 File Management System - TypeScript
+---
+
+A powerful, flexible, and chainable file management system for Node.js.
+
 
 # **📘 File Management System - TypeScript**  
 A **powerful, flexible, and chainable file management system** for Node.js.  
@@ -30,7 +35,7 @@ This system provides an easy way to **manage files and directories** while suppo
 ## **📥 Installation**
 To install and use this package, run:
 ```sh
-git clone github.com/Whitzzscott/FileManagement
+git clone https://github.com/Whitzzscott/FileManagement.git
 cd FileManagement
 npm install
 ```
