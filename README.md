@@ -130,9 +130,8 @@ This file management system offers multiple operations for handling files and fo
    npm run dev
    ```
 3. **Modify settings**  
-   - **Change file paths** in `src/main.ts` to test different operations.  
-   - **Check `src/Examples/`** for more sample implementations.  
-   - **Modify core functionality in `src/Extractors/Wrapper`** if necessary.
+   - **Change file paths** in `src/main.ts` to test different operations.   
+   - **Modify core functionality in `src/Wrapper`** if necessary.
 
 ---
 
