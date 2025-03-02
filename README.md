@@ -127,7 +127,7 @@ This file management system offers multiple operations for handling files and fo
    ```
 2. **Run the script**  
    ```sh
-   npm run dev
+   npm run start
    ```
 3. **Modify settings**  
    - **Change file paths** in `src/main.ts` to test different operations.   
